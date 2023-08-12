@@ -22,17 +22,19 @@
     "url": "https://swift-ast-explorer.com/update",
     "icon": "https://icons.duckduckgo.com/ip3/swift-ast-explorer.com.ico",
     "slug": "swift-ast-explorer-com-update",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 259,
+    "timeDay": 218,
     "timeWeek": 176,
     "timeMonth": 178,
     "timeYear": 199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-12": 0
+    }
   }
 ]
