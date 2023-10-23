@@ -4,18 +4,20 @@
     "url": "https://swift-ast-explorer.com",
     "icon": "https://icons.duckduckgo.com/ip3/swift-ast-explorer.com.ico",
     "slug": "swift-ast-explorer-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 133,
-    "timeWeek": 200,
-    "timeMonth": 213,
-    "timeYear": 256,
-    "dailyMinutesDown": {}
+    "time": 394,
+    "timeDay": 11619,
+    "timeWeek": 3063,
+    "timeMonth": 951,
+    "timeYear": 394,
+    "dailyMinutesDown": {
+      "2023-10-23": 0
+    }
   },
   {
     "name": "swift-ast-explorer.com/update",
