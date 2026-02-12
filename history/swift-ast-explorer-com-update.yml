@@ -1,7 +1,7 @@
 url: https://swift-ast-explorer.com/update
-status: down
-code: 502
-responseTime: 15017
-lastUpdated: 2026-02-11T23:30:25.237Z
+status: up
+code: 200
+responseTime: 25
+lastUpdated: 2026-02-12T01:18:47.204Z
 startTime: 2023-05-12T11:50:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
